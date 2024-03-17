@@ -1,0 +1,90 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Spicy Thai Basil Chicken Stir-Fry",
+    "short_description": "A quick and flavorful stir-fry dish with tender chicken and aromatic Thai basil.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "400 g mushroom"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories",
+    "recipe_image": "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Mediterranean Quinoa Salad",
+    "short_description": "A refreshing salad packed with quinoa, colorful vegetables, and a zesty lemon dressing.",
+    "ingredients": [
+      "1 cup quinoa",
+      "200 g cherry tomatoes",
+      "1 cucumber",
+      "1/4 cup olive oil",
+      "2 tbsp lemon juice"
+    ],
+    "preparing_time": "20 min",
+    "calories": "250 calories",
+    "recipe_image": "https://www.eatingwell.com/thmb/m5xUzIOmhWSoXZnY-oZcO9SdArQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/article_291139_the-top-10-healthiest-foods-for-kids_-02-4b745e57928c4786a61b47d8ba920058.jpg"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Creamy Mushroom Risotto",
+    "short_description": "Indulge in this creamy risotto infused with earthy mushrooms and rich parmesan cheese.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "500 g mushrooms",
+      "1 onion",
+      "1 liter vegetable broth",
+      "100 g parmesan cheese"
+    ],
+    "preparing_time": "40 min",
+    "calories": "380 calories",
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmIGjCNu8xQB5qg5eSd5CAsZ_gwIq-D72GS0_y5kPZw&s"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Vegan Lentil Curry",
+    "short_description": "A hearty and flavorful curry made with nutritious lentils and fragrant spices.",
+    "ingredients": [
+      "250 g lentils",
+      "400 ml coconut milk",
+      "2 tbsp curry powder",
+      "1 onion",
+      "3 cloves garlic"
+    ],
+    "preparing_time": "45 min",
+    "calories": "290 calories",
+    "recipe_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/800px-Good_Food_Display_-_NCI_Visuals_Online.jpg"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Classic Margherita Pizza",
+    "short_description": "Enjoy the simplicity of a classic Margherita pizza with fresh tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "300 g pizza dough",
+      "200 g mozzarella cheese",
+      "2 tomatoes",
+      "50 g fresh basil leaves"
+    ],
+    "preparing_time": "25 min",
+    "calories": "320 calories",
+    "recipe_image": "https://www.tripsavvy.com/thmb/-_AvR2EpNBO0NUvYTd_rRNDOIqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AlFanarRestaurant-FoodstoTry-ccad8a49e0c34203989d7b9b799ccbc0.png"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Chocolate Lava Cake",
+    "short_description": "Indulge in the decadence of a warm chocolate lava cake with a gooey, molten center.",
+    "ingredients": [
+      "100 g dark chocolate",
+      "100 g butter",
+      "2 eggs",
+      "50 g sugar",
+      "30 g flour"
+    ],
+    "preparing_time": "35 min",
+    "calories": "400 calories",
+    "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmIGjCNu8xQB5qg5eSd5CAsZ_gwIq-D72GS0_y5kPZw&s"
+  }
+]
